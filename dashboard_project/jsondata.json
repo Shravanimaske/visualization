@@ -1,0 +1,52 @@
+[
+    {
+        "Intensity": 8.5,
+        "Likelihood": 0.7,
+        "Relevance": 0.9,
+        "Year": 2022,
+        "Country": "United States",
+        "Topics": "Economy",
+        "Region": "North America",
+        "City": "New York"
+    },
+    {
+        "Intensity": 6.2,
+        "Likelihood": 0.6,
+        "Relevance": 0.8,
+        "Year": 2022,
+        "Country": "Germany",
+        "Topics": "Technology",
+        "Region": "Europe",
+        "City": "Berlin"
+    },
+    {
+        "Intensity": 7.8,
+        "Likelihood": 0.75,
+        "Relevance": 0.85,
+        "Year": 2022,
+        "Country": "China",
+        "Topics": "Environment",
+        "Region": "Asia",
+        "City": "Shanghai"
+    },
+    {
+        "Intensity": 5.3,
+        "Likelihood": 0.55,
+        "Relevance": 0.75,
+        "Year": 2022,
+        "Country": "Brazil",
+        "Topics": "Healthcare",
+        "Region": "South America",
+        "City": "Rio de Janeiro"
+    },
+    {
+        "Intensity": 7.0,
+        "Likelihood": 0.8,
+        "Relevance": 0.9,
+        "Year": 2022,
+        "Country": "India",
+        "Topics": "Politics",
+        "Region": "Asia",
+        "City": "New Delhi"
+    }
+]
